@@ -77,7 +77,7 @@ const config: Config = {
     navbar: {
       title: 'Skills Claude Code',
       logo: {
-        alt: 'Claude Logo',
+        alt: 'Claude Skills Logo',
         src: 'img/logo.svg',
       },
       items: [
